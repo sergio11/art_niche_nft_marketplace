@@ -39,6 +39,14 @@ Please, take a look this repository if you are interested in further information
 
 Slides are built using the  template from [Previewed](https://previewed.app/template/AFC0B4CB). I extend my gratitude to them for their remarkable work and contribution.
 
+## ⚠️ Disclaimer  
+
+**ArtNiche** is a **conceptual and experimental project** developed for **learning and research purposes** in the fields of **blockchain technology, smart contracts, and Jetpack Compose-based UI development**. This marketplace serves as a **proof of concept** to explore the potential of NFTs in digital art but **does not provide financial, legal, or investment advice**.  
+
+This project is deployed on the **Polygon Mumbai Testnet**, meaning that all transactions and interactions occur in a **test environment** with no real monetary value.
+
+The main goal of **ArtNiche** is to understand the integration of **decentralized applications (dApps)** with blockchain infrastructure, improving knowledge of NFT standards such as **ERC-721**. This repository is open for educational discussions, experimentation, and further development.  
+
 ## 🚀 Unlock New Experiences with These Jetpack Compose Apps  
 
 If you love innovation and high-quality mobile experiences, check out my other apps built with **Jetpack Compose**!  
@@ -305,6 +313,14 @@ Through the Alchemy dashboard it is possible to review the transactions sent fro
 <img src="./doc/alchemy/alchemy_picture_2.png" />
 <img src="./doc/alchemy/alchemy_picture_3.png" />
 <img src="./doc/alchemy/alchemy_picture_4.png" />
+
+## ⚠️ Disclaimer  
+
+**ArtNiche** is a **conceptual and experimental project** developed for **learning and research purposes** in the fields of **blockchain technology, smart contracts, and Jetpack Compose-based UI development**. This marketplace serves as a **proof of concept** to explore the potential of NFTs in digital art but **does not provide financial, legal, or investment advice**.  
+
+This project is deployed on the **Polygon Mumbai Testnet**, meaning that all transactions and interactions occur in a **test environment** with no real monetary value.
+
+The main goal of **ArtNiche** is to understand the integration of **decentralized applications (dApps)** with blockchain infrastructure, improving knowledge of NFT standards such as **ERC-721**. This repository is open for educational discussions, experimentation, and further development.  
 
 ## Acknowledgements 🙏
 
